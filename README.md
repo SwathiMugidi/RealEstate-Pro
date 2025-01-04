@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+
 # RealEstate-Pro
+
 =======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +74,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> f2f94fe (Initial commit)
+
+> > > > > > > f2f94fe (Initial commit)
+> > > > > > > ![Screenshot1](screenshots/Screenshot1.png)
+> > > > > > > ![Screenshot2](screenshots/Screenshot2.png)
+> > > > > > > ![Screenshot3](screenshots/Screenshot3.png)
+> > > > > > > ![Screenshot4](screenshots/Screenshot4.png)
